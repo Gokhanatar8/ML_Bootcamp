@@ -45,4 +45,4 @@ Yapılan analizler ve model uygulamaları sonucunda:
 
 Bu çalışma, yalnızca iki değişken üzerinden bir analiz sunmaktadır. Daha kapsamlı bir tahmin modeli için ek değişkenlerin (yaş, tansiyon, kolesterol vb.) ve daha gelişmiş modelleme tekniklerinin kullanılması gerekmektedir.
 
-
+Kaggle ipynb dosyası linki: https://www.kaggle.com/code/gokhanatar/heart-attackml
